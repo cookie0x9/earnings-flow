@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "project": "EarningsFlow",
+  "track": "Track 3 · US Stock AI Trading",
+  "verified_at": "2026-06-26",
+  "public_links": {
+    "github_repo": {
+      "url": "https://github.com/cookie0x9/earnings-flow",
+      "type": "required",
+      "verified": true,
+      "requires_login": false,
+      "verified_at": "2026-06-26"
+    },
+    "paper_trading_log": {
+      "url": "https://raw.githubusercontent.com/cookie0x9/earnings-flow/master/evidence/paper_trading_log.csv",
+      "type": "required",
+      "verified": true,
+      "requires_login": false,
+      "verified_at": "2026-06-26"
+    },
+    "paper_trading_log_json": {
+      "url": "https://raw.githubusercontent.com/cookie0x9/earnings-flow/master/evidence/paper_trading_log.json",
+      "type": "optional",
+      "verified": true,
+      "requires_login": false,
+      "verified_at": "2026-06-26"
+    },
+    "backtest_notebook": {
+      "url": "https://github.com/cookie0x9/earnings-flow/blob/master/notebooks/backtest.ipynb",
+      "type": "optional",
+      "verified": true,
+      "requires_login": false,
+      "verified_at": "2026-06-26"
+    },
+    "readme": {
+      "url": "https://github.com/cookie0x9/earnings-flow/blob/master/README.md",
+      "type": "required",
+      "verified": true,
+      "requires_login": false,
+      "verified_at": "2026-06-26"
+    }
+  },
+  "repo_metadata": {
+    "owner": "cookie0x9",
+    "name": "earnings-flow",
+    "branch": "master",
+    "commit": "c571f2b",
+    "visibility": "public"
+  }
+}
